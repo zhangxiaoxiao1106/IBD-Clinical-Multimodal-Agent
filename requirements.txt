@@ -1,0 +1,16 @@
+# 必选依赖（跑通 demo 最小集合）
+pydantic>=2.0
+pyyaml>=6.0
+httpx>=0.25
+
+# 可选：向量检索
+faiss-cpu>=1.7
+sentence-transformers>=2.2
+
+# 可选：NLI 事实校验
+torch>=2.0
+transformers>=4.35
+
+# 测试
+pytest>=7.4
+pytest-asyncio>=0.21

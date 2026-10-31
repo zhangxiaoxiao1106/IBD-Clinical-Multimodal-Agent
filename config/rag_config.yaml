@@ -1,0 +1,20 @@
+# 检索配置
+
+pubmed:
+  date_range: "2020:2026"
+  max_results: 15
+
+vector_store:
+  # 英文文献用英文模型；该依赖为可选项，缺索引/缺依赖时向量检索自动跳过
+  backend: "faiss"
+  embedding_model: "BAAI/bge-large-en-v1.5"
+  index_path: "./data/faiss_index.bin"
+
+fusion:
+  method: "rrf"
+  rrf_k: 60
+  top_k_final: 15
+
+# 融合后的排序是证据等级加权规则，不是 cross-encoder
+rerank:
+  method: "evidence_level_heuristic"

@@ -1,0 +1,434 @@
+{
+  "IBD-2026-001": {
+    "task_id": "case_IBD-2026-001",
+    "status": "completed",
+    "triage_level": "moderate",
+    "evidence_chain": {
+      "chain_id": "726dcd9d",
+      "original_query": "(ATG16L1 OR FCGR3A OR NOD2) AND (adalimumab OR infliximab) AND (Crohn disease)",
+      "expanded_queries": [
+        "(ATG16L1 OR FCGR3A OR NOD2) AND (adalimumab OR infliximab) AND (Crohn disease) AND (response OR resistance OR prognosis)",
+        "(adalimumab OR ADA OR Humira) AND IBD"
+      ],
+      "evidence_list": [
+        {
+          "chunk_id": "c7d25dc6",
+          "trace_id": "tr_37473877_0",
+          "source_type": "pubmed",
+          "source_id": "37473877",
+          "source_title": "Polymorphisms indicating risk of inflammatory bowel disease or antigenicity to anti-TNF drugs as biomarkers of response in children.",
+          "publication_year": null,
+          "evidence_level": "II级：队列研究",
+          "chunk_text": "Few genetic polymorphisms predict early response to anti-TNF drugs in inflammatory bowel disease (IBD), and even fewer have been identified in the pediatric population. However, it would be of considerable clinical interest to identify and validate genetic biomarkers of long-term response. Therefore, the aim of the study was to analyze the usefulness of biomarkers of response to anti-TNFs in pediatric IBD (pIBD) as long-term biomarkers and to find differences by type of IBD and type of anti-TNF drug. The study population comprised 340 children diagnosed with IBD who were treated with infliximab or adalimumab. Genotyping of 9 selected SNPs for their association with early response and/or immunogenicity to anti-TNFs was performed using real-time PCR. Variants C rs10508884 (CXCL12), A rs22418",
+          "dense_score": null,
+          "fused_score": 0.01587,
+          "rerank_score": 0.11587,
+          "query_text": "(ATG16L1 OR FCGR3A OR NOD2) AND (adalimumab OR infliximab) AND (Crohn disease)",
+          "retrieval_method": "pubmed_api",
+          "retrieved_at": "2026-10-17 18:19:34.356002"
+        },
+        {
+          "chunk_id": "558d5620",
+          "trace_id": "tr_31692018_1",
+          "source_type": "pubmed",
+          "source_id": "31692018",
+          "source_title": "Morphological spectrum of immune check-point inhibitor therapy-associated gastritis.",
+          "publication_year": null,
+          "evidence_level": "IV级：病例报告 / 专家意见",
+          "chunk_text": "Immune check-point inhibitors are frequently used in the treatment of a variety of solid tumours. The mechanism of action of these drugs involves up-regulation of cytotoxic T cells, which can lead to a lack of self-tolerance and immune-related adverse events, including those involving the gastrointestinal tract. This study was performed to characterise the histological features of immune check-point inhibitor therapy-associated gastritis. Gastric biopsies from patients on immune check-point inhibitor therapy with clinical suspicion of drug-associated gastrointestinal injury were identified. The predominant histological pattern of injury, distribution of injury, degree of tissue eosinophilia and prominence of apoptosis were recorded. Presenting symptoms, treatment and follow-up data were ob",
+          "dense_score": null,
+          "fused_score": 0.01639,
+          "rerank_score": 0.01639,
+          "query_text": "(ATG16L1 OR FCGR3A OR NOD2) AND (adalimumab OR infliximab) AND (Crohn disease)",
+          "retrieval_method": "pubmed_api",
+          "retrieved_at": "2026-10-17 18:19:34.355980"
+        },
+        {
+          "chunk_id": "8e7e3e13",
+          "trace_id": "tr_34788239_2",
+          "source_type": "pubmed",
+          "source_id": "34788239",
+          "source_title": "Multiple Cranial Neuropathies and Pachymeningitis in a Patient With a Pathogenic Nucleotide-Binding Oligomerization Domain 2 Polymorphism.",
+          "publication_year": null,
+          "evidence_level": "IV级：病例报告 / 专家意见",
+          "chunk_text": "An 11-year-old boy presented with 2 weeks of intermittent headache, right orbital pain, and constant diplopia. Brain MRI showed dural thickening and enhancement of the right lateral cavernous sinus, right orbital apex, and tentorium. Initial cerebral spinal fluid analysis showed only mild pleocytosis, and serum diagnostics were unrevealing. The working diagnosis was Tolosa-Hunt syndrome. His pain and sixth nerve palsy resolved with corticosteroids. Five months after initial presentation, he developed new numbness of the right cheek, complete right ophthalmoplegia, and weakness and numbness of his right hand and leg, all of which were responsive to steroids. Fifteen months later, he returned to the emergency department with 2 weeks of left-sided headaches and acute diplopia. On examination,",
+          "dense_score": null,
+          "fused_score": 0.01613,
+          "rerank_score": 0.01613,
+          "query_text": "(ATG16L1 OR FCGR3A OR NOD2) AND (adalimumab OR infliximab) AND (Crohn disease)",
+          "retrieval_method": "pubmed_api",
+          "retrieved_at": "2026-10-17 18:19:34.355995"
+        },
+        {
+          "chunk_id": "b69ea827",
+          "trace_id": "tr_41439128_3",
+          "source_type": "pubmed",
+          "source_id": "41439128",
+          "source_title": "Identifying Genetic Factors Influencing the Development of Anti-Drug Antibodies in Inflammatory Bowel Disease: A Scoping Review.",
+          "publication_year": null,
+          "evidence_level": "IV级：病例报告 / 专家意见",
+          "chunk_text": "Biologic therapies such as infliximab and adalimumab have transformed the management of inflammatory bowel disease. However, many patients experience primary or secondary loss of response, often due to the development of anti-drug antibodies. The cause of anti-drug antibody formation is thought to be influenced by genetic variations, with human leukocyte antigen alleles-particularly HLA-DQA1*05-emerging as consistent risk factors for immunogenicity, but other candidate variants may also be of importance. To explore the role of genetic predictors in anti-drug antibody development, we systematically reviewed the literature. A search of Medline, Embase, and the Cochrane Library identified 1944 records, of which 27 studies met inclusion criteria. Across these studies, HLA-DQA1*05 carriage was ",
+          "dense_score": null,
+          "fused_score": 0.01562,
+          "rerank_score": 0.01562,
+          "query_text": "(ATG16L1 OR FCGR3A OR NOD2) AND (adalimumab OR infliximab) AND (Crohn disease)",
+          "retrieval_method": "pubmed_api",
+          "retrieved_at": "2026-10-17 18:19:34.356008"
+        },
+        {
+          "chunk_id": "4f8d64db",
+          "trace_id": "tr_37577818_4",
+          "source_type": "pubmed",
+          "source_id": "37577818",
+          "source_title": "Apoptosis and inflammatory genes variants in primary non-response to anti-TNF therapy in Crohn's disease patients.",
+          "publication_year": null,
+          "evidence_level": "IV级：病例报告 / 专家意见",
+          "chunk_text": "Anti-TNF therapy has indeed revolutionized the treatment of Crohn's disease, leading to higher rates of response and remission in patients. However, a significant proportion of 20-40% of patients do not respond to the initial therapy, others experience a secondary loss of response with ongoing treatment. Adverse drug reactions also occur in some patients. The effectiveness of anti-TNF treatment may be influenced by genetic variability, including FCGR3A, ADAM17, TNFRSF1A, TNFRSF1B, FAS, FASL, IL1B, CASP9 , and MIF genes. In this article, we provide an overview of the current knowledge and findings in the pharmacogenetics of anti-TNF drugs in CD focusing on the aspect of apoptosis and inflammatory genes variants in primary non-response. Pharmacogenetic investigations have been conducted to i",
+          "dense_score": null,
+          "fused_score": 0.01538,
+          "rerank_score": 0.01538,
+          "query_text": "(ATG16L1 OR FCGR3A OR NOD2) AND (adalimumab OR infliximab) AND (Crohn disease)",
+          "retrieval_method": "pubmed_api",
+          "retrieved_at": "2026-10-17 18:19:34.356014"
+        },
+        {
+          "chunk_id": "9a1059c7",
+          "trace_id": "tr_39959979_5",
+          "source_type": "pubmed",
+          "source_id": "39959979",
+          "source_title": "Therapeutic drug monitoring and immunogenetic factors associated with the use of adalimumab in Crohn's disease patients.",
+          "publication_year": null,
+          "evidence_level": "IV级：病例报告 / 专家意见",
+          "chunk_text": "Crohn's disease (CD) involves immune system interactions with intestinal tissue, driven by pro-inflammatory cytokines like Tumor Necrosis Factor (TNF-α). Adalimumab, targeting TNF-α, regulates associated inflammatory responses. Despite being humanized, it may induce immunogenic processes, affecting treatment effectiveness. Thus, monitoring serum adalimumab and anti-drug antibody (ADA) levels can optimize therapy. Understanding genetic factors influencing adalimumab response can enhance personalized treatment and improve patient quality of life. We aimed to quantify adalimumab serum levels, assess test interchangeability, detect ADA, examine immune complex formation, and investigate genetic phenotypes related to immunogenicity in CD patients. Seventy CD patients in the maintenance phase wit",
+          "dense_score": null,
+          "fused_score": 0.01515,
+          "rerank_score": 0.01515,
+          "query_text": "(ATG16L1 OR FCGR3A OR NOD2) AND (adalimumab OR infliximab) AND (Crohn disease)",
+          "retrieval_method": "pubmed_api",
+          "retrieved_at": "2026-10-17 18:19:34.356020"
+        },
+        {
+          "chunk_id": "69c08d83",
+          "trace_id": "tr_33163192_6",
+          "source_type": "pubmed",
+          "source_id": "33163192",
+          "source_title": "Association of polymorphisms in",
+          "publication_year": null,
+          "evidence_level": "IV级：病例报告 / 专家意见",
+          "chunk_text": "Trough levels of the post-induction serum infliximab (IFX) are associated with short-term and long-term responses of Crohn's disease patients to IFX, but the inter-individual differences are large. We aimed to elucidate whether single gene polymorphisms (SNPs) within The retrospective study included 189 Crohn's disease patients undergoing IFX therapy. Post-induction IFX levels were measured and 41 tag SNPs within eight genes were genotyped. Associations between SNPs and IFX levels were analysed. Then, a multivariate logistic-regression model was developed to predict whether the patients' IFX levels achieved the threshold of therapy (3 μg/mL). Six SNPs (rs7587051, rs143063741, rs442905, rs59457695, rs3213448, and rs3021094) were significantly associated with the post-induction IFX trough le",
+          "dense_score": null,
+          "fused_score": 0.01493,
+          "rerank_score": 0.01493,
+          "query_text": "(ATG16L1 OR FCGR3A OR NOD2) AND (adalimumab OR infliximab) AND (Crohn disease)",
+          "retrieval_method": "pubmed_api",
+          "retrieved_at": "2026-10-17 18:19:34.356025"
+        },
+        {
+          "chunk_id": "9d3a67ca",
+          "trace_id": "tr_34575218_7",
+          "source_type": "pubmed",
+          "source_id": "34575218",
+          "source_title": "Prevalence of Fatigue and Unrecognized Depression in Patients with Inflammatory Bowel Disease in Remission under Immunosuppressants and Biologicals.",
+          "publication_year": null,
+          "evidence_level": "IV级：病例报告 / 专家意见",
+          "chunk_text": "Although highly prevalent among inflammatory bowel disease (IBD) patients, fatigue remains an unmet clinical need. The aim was to describe the prevalence of fatigue in an IBD population in remission and identify factors associated with fatigue. IBD patients in clinical and biochemical remission under treatment with immunomodulators or biologicals were included. Fatigue, physical tiredness and depression were assessed using the fatigue Visual Analogue Scale (fVAS), the Shortened Fatigue Questionnaire (SFQ) and the Quick Inventory of Depressive Symptomatology-Self Report (QIDS-SR), respectively. Relevant clinical and biochemical parameters were included in regression analyses to identify factors associated with physical fatigue. In total, 157 IBD patients were included. Up to 45.9% of patien",
+          "dense_score": null,
+          "fused_score": 0.01471,
+          "rerank_score": 0.01471,
+          "query_text": "(ATG16L1 OR FCGR3A OR NOD2) AND (adalimumab OR infliximab) AND (Crohn disease)",
+          "retrieval_method": "pubmed_api",
+          "retrieved_at": "2026-10-17 18:19:34.356030"
+        }
+      ],
+      "notes": [
+        "向量检索跳过: 缺少向量检索依赖: No module named 'faiss'"
+      ]
+    },
+    "analysis_result": {
+      "patient_id": "IBD-2026-001",
+      "features": {
+        "patient_id": "IBD-2026-001",
+        "age": 32,
+        "disease_type": "CD",
+        "disease_duration_months": 48,
+        "current_biologic": "infliximab",
+        "prior_biologics": [
+          "adalimumab"
+        ],
+        "immunomodulators": [
+          "azathioprine"
+        ],
+        "cdai": 280,
+        "mayo_score": null,
+        "calprotectin": 450,
+        "crp": 12.5,
+        "candidate_genes": [
+          "NOD2",
+          "ATG16L1",
+          "FCGR3A"
+        ],
+        "has_imaging": false
+      },
+      "evidence_summary": {
+        "total": 8,
+        "high_quality": 1,
+        "level_distribution": {
+          "II级：队列研究": 1,
+          "IV级：病例报告 / 专家意见": 7
+        },
+        "top_findings": [
+          {
+            "source_id": "37473877",
+            "title": "Polymorphisms indicating risk of inflammatory bowel disease ",
+            "level": "II级：队列研究",
+            "trace_id": "tr_37473877_0",
+            "snippet": "Few genetic polymorphisms predict early response to anti-TNF drugs in inflammatory bowel disease (IBD), and even fewer have been identified in the pediatric population. However, it would be of conside"
+          },
+          {
+            "source_id": "31692018",
+            "title": "Morphological spectrum of immune check-point inhibitor thera",
+            "level": "IV级：病例报告 / 专家意见",
+            "trace_id": "tr_31692018_1",
+            "snippet": "Immune check-point inhibitors are frequently used in the treatment of a variety of solid tumours. The mechanism of action of these drugs involves up-regulation of cytotoxic T cells, which can lead to "
+          },
+          {
+            "source_id": "34788239",
+            "title": "Multiple Cranial Neuropathies and Pachymeningitis in a Patie",
+            "level": "IV级：病例报告 / 专家意见",
+            "trace_id": "tr_34788239_2",
+            "snippet": "An 11-year-old boy presented with 2 weeks of intermittent headache, right orbital pain, and constant diplopia. Brain MRI showed dural thickening and enhancement of the right lateral cavernous sinus, r"
+          },
+          {
+            "source_id": "41439128",
+            "title": "Identifying Genetic Factors Influencing the Development of A",
+            "level": "IV级：病例报告 / 专家意见",
+            "trace_id": "tr_41439128_3",
+            "snippet": "Biologic therapies such as infliximab and adalimumab have transformed the management of inflammatory bowel disease. However, many patients experience primary or secondary loss of response, often due t"
+          },
+          {
+            "source_id": "37577818",
+            "title": "Apoptosis and inflammatory genes variants in primary non-res",
+            "level": "IV级：病例报告 / 专家意见",
+            "trace_id": "tr_37577818_4",
+            "snippet": "Anti-TNF therapy has indeed revolutionized the treatment of Crohn's disease, leading to higher rates of response and remission in patients. However, a significant proportion of 20-40% of patients do n"
+          }
+        ],
+        "notes": [
+          "向量检索跳过: 缺少向量检索依赖: No module named 'faiss'"
+        ]
+      },
+      "risk_assessment": {
+        "risk_score": 0.7,
+        "risk_level": "high",
+        "confidence": 0.79,
+        "advice": "建议尽快复评，考虑升级治疗或更换作用机制的生物制剂",
+        "reasons": [
+          "钙卫蛋白=450 μg/g，黏膜炎症活动",
+          "既往有生物制剂失败史，需警惕继发性失应答"
+        ]
+      }
+    },
+    "report": {
+      "report_id": "07a36851",
+      "patient_id": "IBD-2026-001",
+      "generated_at": "2026-10-17 18:19:34.356794",
+      "sections": [
+        {
+          "section_name": "background",
+          "title": "背景综述",
+          "content": "患者 IBD-2026-001，32 岁，诊断为 CD，病程 48 个月。当前使用 infliximab；既往生物制剂: adalimumab。",
+          "citations": [],
+          "confidence": 0.5
+        },
+        {
+          "section_name": "methods",
+          "title": "评估方法",
+          "content": "本次评估基于患者临床表格指标与问卷文本，检索 PubMed 文献共 8 篇（其中 II 级及以上 1 篇），结合 CDAI/Mayo、钙卫蛋白等指标进行规则风险分层。",
+          "citations": [],
+          "confidence": 0.5
+        },
+        {
+          "section_name": "results",
+          "title": "分析结果",
+          "content": "风险评分 0.7，风险等级 high。主要依据：钙卫蛋白=450 μg/g，黏膜炎症活动；既往有生物制剂失败史，需警惕继发性失应答。 相关证据见 PMID:37473877。",
+          "citations": [
+            "37473877"
+          ],
+          "confidence": 0.7
+        },
+        {
+          "section_name": "evidence",
+          "title": "证据汇总",
+          "content": "- [II级：队列研究] Polymorphisms indicating risk of inflammatory bowel disease （PMID:37473877）: Few genetic polymorphisms predict early response to anti-TNF drugs in inflammatory bowel disease (IBD), and even fewer h\n- [IV级：病例报告 / 专家意见] Morphological spectrum of immune check-point inhibitor thera（PMID:31692018）: Immune check-point inhibitors are frequently used in the treatment of a variety of solid tumours. The mechanism of actio\n- [IV级：病例报告 / 专家意见] Multiple Cranial Neuropathies and Pachymeningitis in a Patie（PMID:34788239）: An 11-year-old boy presented with 2 weeks of intermittent headache, right orbital pain, and constant diplopia. Brain MRI\n- [IV级：病例报告 / 专家意见] Identifying Genetic Factors Influencing the Development of A（PMID:41439128）: Biologic therapies such as infliximab and adalimumab have transformed the management of inflammatory bowel disease. Howe\n- [IV级：病例报告 / 专家意见] Apoptosis and inflammatory genes variants in primary non-res（PMID:37577818）: Anti-TNF therapy has indeed revolutionized the treatment of Crohn's disease, leading to higher rates of response and rem",
+          "citations": [
+            "37473877",
+            "31692018",
+            "34788239",
+            "41439128",
+            "37577818"
+          ],
+          "confidence": 0.7
+        },
+        {
+          "section_name": "conclusion",
+          "title": "临床结论",
+          "content": "现有资料提示患者总体风险为 high 等（置信度 0.79）。 文献证据支持上述判断，见 PMID:37473877。",
+          "citations": [
+            "37473877"
+          ],
+          "confidence": 0.7
+        },
+        {
+          "section_name": "recommendation",
+          "title": "用药建议",
+          "content": "建议尽快复评，考虑升级治疗或更换作用机制的生物制剂。若症状加重或炎症指标升高，应及时复查内镜与钙卫蛋白。",
+          "citations": [],
+          "confidence": 0.5
+        }
+      ],
+      "generated_by": "template",
+      "overall_confidence": 0.6,
+      "evidence_coverage": 0.5,
+      "hallucination_risk": 0.0,
+      "rule_warnings": []
+    },
+    "judge_result": null,
+    "retrieval_notes": [
+      "向量检索跳过: 缺少向量检索依赖: No module named 'faiss'"
+    ],
+    "errors": [],
+    "profile": {
+      "name": "task_case_IBD-2026-001",
+      "state_history": [
+        "WAITING",
+        "TRIAGE",
+        "RETRIEVAL",
+        "ANALYSIS",
+        "REPORT",
+        "COMPLETED"
+      ],
+      "state_durations": {
+        "WAITING": 0.0,
+        "TRIAGE": 0.0,
+        "RETRIEVAL": 2.204,
+        "ANALYSIS": 0.0,
+        "REPORT": 0.505,
+        "COMPLETED": 0.0
+      },
+      "total_duration": 2.709
+    }
+  },
+  "IBD-2026-002": {
+    "task_id": "case_IBD-2026-002",
+    "status": "completed",
+    "triage_level": "simple",
+    "evidence_chain": null,
+    "analysis_result": {
+      "patient_id": "IBD-2026-002",
+      "features": {
+        "patient_id": "IBD-2026-002",
+        "age": 28,
+        "disease_type": "UC",
+        "disease_duration_months": 24,
+        "current_biologic": "vedolizumab",
+        "prior_biologics": [],
+        "immunomodulators": [],
+        "cdai": null,
+        "mayo_score": 2,
+        "calprotectin": 120,
+        "crp": 3.2,
+        "candidate_genes": [],
+        "has_imaging": false
+      },
+      "evidence_summary": {
+        "total": 0,
+        "high_quality": 0,
+        "level_distribution": {},
+        "top_findings": [],
+        "notes": []
+      },
+      "risk_assessment": {
+        "risk_score": 0.5,
+        "risk_level": "moderate",
+        "confidence": 0.55,
+        "advice": "建议优化当前方案并在 6-8 周后复查炎症指标",
+        "reasons": []
+      }
+    },
+    "report": {
+      "report_id": "a2b089e8",
+      "patient_id": "IBD-2026-002",
+      "generated_at": "2026-10-17 18:19:34.862318",
+      "sections": [
+        {
+          "section_name": "background",
+          "title": "背景综述",
+          "content": "患者 IBD-2026-002，28 岁，诊断为 UC，病程 24 个月。当前使用 vedolizumab；既往生物制剂: 无。",
+          "citations": [],
+          "confidence": 0.5
+        },
+        {
+          "section_name": "methods",
+          "title": "评估方法",
+          "content": "本次评估基于患者临床表格指标与问卷文本，检索 PubMed 文献共 0 篇（其中 II 级及以上 0 篇），结合 CDAI/Mayo、钙卫蛋白等指标进行规则风险分层。",
+          "citations": [],
+          "confidence": 0.5
+        },
+        {
+          "section_name": "results",
+          "title": "分析结果",
+          "content": "风险评分 0.5，风险等级 moderate。主要依据：未发现明显高危因素。",
+          "citations": [],
+          "confidence": 0.5
+        },
+        {
+          "section_name": "evidence",
+          "title": "证据汇总",
+          "content": "本次未检索到可用文献，以下结论主要依据患者临床指标，证据有限，建议进一步验证。",
+          "citations": [],
+          "confidence": 0.5
+        },
+        {
+          "section_name": "conclusion",
+          "title": "临床结论",
+          "content": "现有资料提示患者总体风险为 moderate 等（置信度 0.55）。 因缺少外部文献，结论需结合临床随访确认。",
+          "citations": [],
+          "confidence": 0.5
+        },
+        {
+          "section_name": "recommendation",
+          "title": "用药建议",
+          "content": "建议优化当前方案并在 6-8 周后复查炎症指标。若症状加重或炎症指标升高，应及时复查内镜与钙卫蛋白。",
+          "citations": [],
+          "confidence": 0.5
+        }
+      ],
+      "generated_by": "template",
+      "overall_confidence": 0.5,
+      "evidence_coverage": 0.0,
+      "hallucination_risk": 0.0,
+      "rule_warnings": []
+    },
+    "judge_result": null,
+    "retrieval_notes": [],
+    "errors": [],
+    "profile": {
+      "name": "task_case_IBD-2026-002",
+      "state_history": [
+        "WAITING",
+        "TRIAGE",
+        "ANALYSIS",
+        "REPORT",
+        "COMPLETED"
+      ],
+      "state_durations": {
+        "WAITING": 0.0,
+        "TRIAGE": 0.0,
+        "ANALYSIS": 0.0,
+        "REPORT": 0.504,
+        "COMPLETED": 0.0
+      },
+      "total_duration": 0.504
+    }
+  }
+}

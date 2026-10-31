@@ -1,0 +1,27 @@
+# IBD 临床智能体系统配置
+
+system:
+  name: "IBD-Clinical-Agent-System"
+  version: "0.1.0"
+
+# 分诊规则与代码中 TriageState 对应
+director:
+  triage:
+    simple:
+      condition: "仅表格，无问卷文本"
+      path: ["AnalysisAgent", "ReportAgent"]
+    moderate:
+      condition: "表格+文本，或无影像的融合输入"
+      path: ["RetrievalAgent", "AnalysisAgent", "ReportAgent"]
+    complex:
+      condition: "含内镜或病理影像"
+      path: ["RetrievalAgent", "AnalysisAgent", "ReportAgent", "JudgeAgent"]
+
+report:
+  sections: ["background", "methods", "results", "evidence", "conclusion", "recommendation"]
+  # 模板报告在无 LLM 时也可生成
+  allow_template_fallback: true
+
+judge:
+  scoring:
+    min_pass_score: 0.80
